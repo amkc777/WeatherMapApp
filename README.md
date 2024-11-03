@@ -30,11 +30,11 @@ The **Weather App** is a modern web application that allows users to select a lo
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/amkc777/weather-app.git
+   git clone https://github.com/amkc777/WeatherMapApp.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd weather-app
+   cd WeatherMapApp
    ```
 
 ## Usage
