@@ -42,11 +42,10 @@ The **Weather App** is a modern web application that allows users to select a lo
 2. The app will fetch and display the current weather data for the selected location. 🌦️
 
 ### Screenshots
-**Before Selecting a Location**
-![Before Selecting Location](screenshots/before-selection.png)
 
-**After Selecting a Location**
-![After Selecting Location](screenshots/after-selection.png)
+
+<div align="center"> <p><strong>Before Selecting a Location</strong></p> <img src="before-selection.png" alt="Before Selecting Location" width="200"/> </div> <div align="center"> <p><strong>After Selecting a Location</strong></p> <img src="after-selection.png" alt="After Selecting Location" width="200"/> </div>
+
 
 ## API Key
 To run the application, you will need an API key from OpenWeatherMap. Replace the placeholder in `script.js` with your actual API key:
